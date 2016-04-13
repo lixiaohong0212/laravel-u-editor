@@ -2,7 +2,6 @@
   "name": "lixiaohong0212/laravel-u-editor",
   "require": {
     "php": ">=5.4.0",
-    "ext-fileinfo": "*",
     "illuminate/support": "5.*",
     "qiniu/php-sdk": "7.*",
     "aliyuncs/oss-sdk-php": "~2.0"
